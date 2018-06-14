@@ -26,4 +26,4 @@ If you already have a Microsoft account you can use it to log in and use MVA but
 
 Medium is a popular blogging platform. Over the course of the program, I will be asking you to create a few blog posts about a variety of topics. You should create your account now and look around to see what post interest you.
 
-Sign up [https://medium.com/](http://medium.com/)
+Sign up at: [https://medium.com/](http://medium.com/)

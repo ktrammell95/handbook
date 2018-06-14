@@ -5,4 +5,8 @@
 - Get in format that is able to be shared (gitbooks, pdf, etc)
 - decide to keep the first check in questions
 - add section on hardware and computer set up
-- Update resources in Prework
+- Update resources in Prework 
+    - react
+    - ruby
+    - replace the site what was bought by plural sight
+- get "next steps" for ruby
