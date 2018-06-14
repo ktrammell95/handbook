@@ -5,3 +5,4 @@
 - Get in format that is able to be shared (gitbooks, pdf, etc)
 - decide to keep the first check in questions
 - add section on hardware and computer set up
+- Update resources in Prework
