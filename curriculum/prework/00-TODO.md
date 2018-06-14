@@ -1,0 +1,5 @@
+- add section on slack
+- update any accounts for Ruby
+- double checkout trainees => students
+- double chekcout PROforma => SDG
+- Get in format that is able to be shared (gitbooks, pdf, etc)
