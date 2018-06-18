@@ -22,14 +22,13 @@ Start off with some HTML and CSS. HTML and CSS are the essentially what everythi
 
 ### Intro to JavaScript & React
 
-JavaScript is an key language to learn in creating web sites. We will be doing a deep dive into the language at the beginning of the program because it is easy for beginners to pick up. React is a widely used Front-end Framework that allows developers to easily work with JavaScript, HTML and CSS.
+JavaScript is an key language to learn in creating web sites. We will be doing a deep dive into the language at the beginning of the program because it is easy for beginners to pick up. 
 
 * [https://www.codeschool.com/learn/javascript](https://www.codeschool.com/learn/javascript) 
-* TODO: REACT RESOUCE
 
 ## Back end Focus
 
-Here you will see examples of both Ruby & .NET. During the course you will choice which language to study in more detail. Each language will cover the basics of servers and other back end concepts. Try both languages and see which one feels better to you.Ask your instructors if you want to know more differences. 
+Here you will see examples of both Ruby & .NET. During the course you will choice which language to study in more detail. Each language will cover the same topics, such basics of servers and working with databases. Try both languages and see which one feels better to you. Ask your instructors if you want to know more differences. 
 
 ### Explore C\# \("c-sharp"\) & .NET 
 
