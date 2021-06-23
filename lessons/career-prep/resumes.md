@@ -70,9 +70,9 @@ Here are some things to think about when writing your Career Summary:
 
 ## Skills
 Listing your skills on your resume incorporates the right keywords to optimize your resume for applicant tracking systems. Think of your skills as three possible categories:
-Technical skills section
-Relevant skills section
-Additional skills section
+- Technical skills section
+- Relevant skills section
+- Additional skills section
 Listing your skills, especially when changing careers, can help boost your resume and showcase your ability to work in languages a position requires. You don't have to list every minute skill you may have. Stick to skills that benefit the position or organization.
 
 Need more help with finding what skills to add:
