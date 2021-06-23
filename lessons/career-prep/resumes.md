@@ -127,7 +127,7 @@ Listing volunteering and community service programs that you are involved in can
 
 Need more examples on how to list Volunteering on your Resume: [How to List Volunteer Work on Your Resume](https://www.indeed.com/career-advice/resumes-cover-letters/listing-volunteer-work-on-a-resume-with-example)
 
-## Resume Lenght: One-page vs. Two page
+## Resume Length: One-page vs. Two page
 
 So you have written your resume, formatted it to your liking, and now realize that it takes up multiple pages. The length of your resume depends on the amount of information you need to share.
 
